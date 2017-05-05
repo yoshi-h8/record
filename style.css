@@ -1,0 +1,23 @@
+
+.table-style { 
+    border-collapse: collapse; 
+}
+
+.th-style { 
+    border: 1px solid white; 
+    border-top-style:none; 
+    border-bottom-style:none; 
+    background-color: black;
+    color: white;
+    padding: 1px 4px 1px 4px;
+} 
+
+.td-style { 
+    border: 1px solid black; 
+    border-top-style:none; 
+    border-left-style:none; 
+    border-right-style:none; 
+    color: black;
+    padding: 1px 2px 1px 4px;
+} 
+
